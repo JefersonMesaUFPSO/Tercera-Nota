@@ -1,5 +1,4 @@
 package semana02;
-
 public class Producto {
     String name;
     double price; 
