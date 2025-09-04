@@ -1,4 +1,4 @@
-package Semana01;
+package main;
 public class App {
     public static class BankAccount {
         //Atributos

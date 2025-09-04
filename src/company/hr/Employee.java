@@ -1,4 +1,4 @@
-package company;
+package hr;
 public class Employee {
     public String name;
     private int salary;
@@ -20,5 +20,9 @@ public class Employee {
         if (newSalary > 0) {
             this.salary = newSalary;
         }
+    }
+
+    public void setRole(String newRole) {
+        this.role = newRole;
     }
   }

@@ -1,4 +1,5 @@
-package semana02;
+package main;
+import product.Producto;
 public class Main {
  public static void main(String[] args) throws Exception {
         System.out.println("");
